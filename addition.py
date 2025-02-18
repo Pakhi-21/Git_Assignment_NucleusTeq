@@ -6,3 +6,4 @@ result = num1 + num2
 
 # Displaying the result
 print("The sum : ",+result)
+print("The Average : ", +(result/2))
